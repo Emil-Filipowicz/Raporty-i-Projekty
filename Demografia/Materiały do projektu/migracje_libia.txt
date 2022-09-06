@@ -1,0 +1,4 @@
+Emigracja	Imigracja
+US		JO
+UK		SY
+IT		SA
